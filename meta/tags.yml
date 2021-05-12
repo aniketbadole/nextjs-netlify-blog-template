@@ -11,3 +11,7 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - name: crypto
+    slug: crypto
+  - name: web development
+    slug: web-development
